@@ -1,0 +1,51 @@
+body{
+    /* background-image: linear-gradient(to bottom right,#00F490 ,  #00BBC9); */
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    
+}
+h1{
+    font-family: 'Abril Fatface', cursive;
+    color: white;
+}
+
+h2{
+    font-family: 'Abril Fatface', cursive;
+}
+
+h3{
+    color: white;
+}
+
+/* h2{
+    color: white;
+} */
+h5{
+    color:white;
+
+}
+
+.mybox{
+    font-size: 2rem;
+}
+a{
+    font-size: 1.5rem;
+    color: white;
+}
+a:hover{
+    color:rgba(228, 216, 216, 0.904);
+}
+.mywrapper{
+    display: block;
+    background-image: linear-gradient(to bottom right,#02a360 ,  #0f767e);
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
+.btn-primary, .btn-primary:hover{
+    background-color: #00BBC9;
+    border-color: #00BBC9;
+}
+
+/* .myinlineblock{
+    display: inline-block;
+} */

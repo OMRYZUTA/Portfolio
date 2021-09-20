@@ -1,0 +1,3 @@
+HI there! I am a Backend Developer based in Tel-Aviv, Israel.
+I'm a Computer Science Graduate at the MTA academic collage.
+I'm skilled in Python, Java, JavaScript, C# ,C++, C, HTML, CSS, React and I'm searching for my next challenge.
